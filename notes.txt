@@ -1,0 +1,13 @@
+Walkman 3V -> motor : 1.19 V, 113m (200m multimeter)
+
+At 255 out to Motor Pin + Power sourced from walkman -> motor:
+Breadboard motor out -> motor : 1.17 V, 109.4m
+Breadboard motor out (w. rectifier) -> motor : 0.78 V, 109.3m  (silver cap negative)
+Breadboard motor out (w. rectifier) -> motor : 1.16 V, 118.3m  (silver cap positive)
+
+
+
+3V power pack:	2.44 V, ?amps
+9V battery: 8.6V, 
+
+Arduino 3.3Vout : 3.3 V, 
